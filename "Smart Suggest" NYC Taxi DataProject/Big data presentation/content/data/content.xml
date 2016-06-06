@@ -1,0 +1,862 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-31502.4931959537" y="-19573.93339160974" width="63004.9863919074" height="39147.86678321948"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_0091823" type="button" x="685.277222303619" y="0" r="0" s="47.63093658987648" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1296.0776917155724</w>
+        <h>824.0142724319967</h>
+      </size>
+    </object>
+    <object id="second_frame" type="button" x="8995.920401135965" y="3693.730505634165" r="0" s="15.78828299231345" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="first_frame" type="button" x="-8186.358052749933" y="10636.961489169931" r="0" s="19.37843329456873" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="first_frame_title" type="text" x="-8254.227314681924" y="6756.099886458471" r="0" s="42.72116577965483" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Problem??]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_32909325"/>
+      </layout>
+    </object>
+    <object id="15_196318383" type="button" x="-20406.06038566161" y="-12601.116850546565" r="0" s="11.552165749093843" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1924.7805644363252</w>
+        <h>1142.023814648771</h>
+      </size>
+    </object>
+    <object id="0_196318383" type="text" x="-21774.48560549294" y="-13514.712557253946" r="0" s="77.23739643695153" class="body">
+      <height>27.59765625</height>
+      <width>-100.08984375</width>
+      <p>
+        <text><![CDATA[Info 7250]]></text>
+      </p>
+    </object>
+    <object id="1_196318383" type="text" x="-21156.14381386071" y="-11276.169044969807" r="0" s="77.23739643695153" class="body">
+      <height>27.59765625</height>
+      <width>-232.1015625</width>
+      <p>
+        <text><![CDATA[Big Data Final Project]]></text>
+      </p>
+    </object>
+    <object id="2_196318383" type="text" x="-20879.56847090611" y="-8911.070788904768" r="0" s="52.754181023804065" class="body">
+      <height>27.59765625</height>
+      <width>-259.69921875</width>
+      <p>
+        <text><![CDATA[- Deepthi, Jigar, Vaibhav]]></text>
+      </p>
+    </object>
+    <object id="3_196318383" type="image" x="-8252.537746634867" y="12526.940234618078" r="0" s="12.197509208864869">
+      <source w="395" h="248">4438704749<url>4438704749.jpg</url></source>
+      <sourceUrl>taxi.jpg</sourceUrl>
+    <resource><id>4438704749</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/7/731db0410bd66e8b934f5cd797fda1980874d.jpg</url></resource></object>
+    <object id="4_196318383" type="image" x="-4704.927581540136" y="9998.380968763377" r="0" s="5.440616115870709">
+      <source w="556" h="556">4438705529<url>4438705529.jpg</url></source>
+      <sourceUrl>taxi%20request.jpg</sourceUrl>
+    <resource><id>4438705529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/3/77c4a936ad6914494d0a1bfc110dc1a50c688.jpg</url></resource></object>
+    <object id="5_196318383" type="image" x="-11801.59611291279" y="11110.840844319346" r="0" s="5.440616115870709">
+      <source w="556" h="556">4438705529<url>4438705529.jpg</url></source>
+      <sourceUrl>taxi%20request.jpg</sourceUrl>
+    <resource><id>4438705529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/3/77c4a936ad6914494d0a1bfc110dc1a50c688.jpg</url></resource></object>
+    <object id="6_196318383" type="image" x="-8252.537746634867" y="15729.39578438518" r="0" s="5.440616115870709">
+      <source w="556" h="556">4438705529<url>4438705529.jpg</url></source>
+      <sourceUrl>taxi%20request.jpg</sourceUrl>
+    <resource><id>4438705529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/3/77c4a936ad6914494d0a1bfc110dc1a50c688.jpg</url></resource></object>
+    <object id="7_196318383" type="text" x="8981.056333359946" y="-956.7782483627371" r="0" s="42.72116577965483" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Solution...]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_32909325"/>
+      </layout>
+    </object>
+    <object id="8_196318383" type="image" x="5383.724594308926" y="3693.8784845972073" r="0" s="5.440616115870709">
+      <source w="556" h="556">4438705529<url>4438705529.jpg</url></source>
+      <sourceUrl>taxi%20request.jpg</sourceUrl>
+    <resource><id>4438705529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/3/77c4a936ad6914494d0a1bfc110dc1a50c688.jpg</url></resource></object>
+    <object id="9_196318383" type="image" x="8997.952013830529" y="4610.107099830546" r="0" s="12.197509208864869">
+      <source w="395" h="248">4438704749<url>4438704749.jpg</url></source>
+      <sourceUrl>taxi.jpg</sourceUrl>
+    <resource><id>4438704749</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/7/731db0410bd66e8b934f5cd797fda1980874d.jpg</url></resource></object>
+    <object id="10_196318383" type="image" x="8997.22791323893" y="7671.12166737248" r="0" s="5.440616115870709">
+      <source w="556" h="556">4438705529<url>4438705529.jpg</url></source>
+      <sourceUrl>taxi%20request.jpg</sourceUrl>
+    <resource><id>4438705529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/3/77c4a936ad6914494d0a1bfc110dc1a50c688.jpg</url></resource></object>
+    <object id="11_196318383" type="image" x="12201.13166418923" y="2824.475040953771" r="0" s="59.94260518522084">
+      <source w="43" h="43">4438709786<url>4438709786.png</url></source>
+      <sourceUrl>recomend.png</sourceUrl>
+    <resource><id>4438709786</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/1/f9c6e4d1a166c92e5a5ac52181eb7d038cdb1.png</url></resource></object>
+    <object id="12_196318383" type="text" x="8980.814966496078" y="610.6080463079935" r="0" s="42.72116577965483" class="strong">
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <height>32.376</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="1530686"><![CDATA[$mart $uggest]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_32909325"/>
+      </layout>
+    </object>
+    <object id="13_196318383" type="button" x="21114.327213013432" y="-6456.322241537553" r="0" s="13.766088727005124" class="circle">
+      <type>circle</type>
+      <size>
+        <w>807.5</w>
+        <h>807.5</h>
+      </size>
+    </object>
+    <object id="14_196318383" type="text" x="21232.701835780223" y="-7803.107275332359" r="0" s="42.72116577965483" class="body">
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <height>32.376</height>
+      <width>216.4131914807595</width>
+      <p>
+        <text color="0"><![CDATA[Data Set - NYC Taxi]]></text>
+      </p>
+    </object>
+    <object id="16_196318383" type="shape" x="1287.5206099361124" y="-7285.310334741549" r="0" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-281.5840510697159 0</sp>
+        <ep>281.5840510697159 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="17_196318383" type="shape" x="-4464.12539477709" y="-7284.8488715600515" r="0" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-90.3452720757325 0</sp>
+        <ep>90.34527207573248 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="18_196318383" type="button" x="872.9281342209297" y="-10467.136343607048" r="0" s="16.247884850836837" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1074.1134328358207</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="19_196318383" type="button" x="-5899.078576746815" y="-7315.924964598662" r="0" s="1.5690461286921484" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800.0000000000001</w>
+        <h>800.0000000000001</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="20_196318383" type="shape" x="1820.16707625027" y="-10559.239116846593" r="-3.425383335549437e-17" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-223.00626687239932 0</sp>
+        <ep>223.00626687239932 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="21_196318383" type="shape" x="-1473.920315514116" y="-12206.73439611267" r="90.00000000000001" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-61.68034796021744 0</sp>
+        <ep>61.68034796021744 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="22_196318383" type="shape" x="4457.210034945073" y="-8928.345427523374" r="90.00000000000001" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-111.76527163016613 0</sp>
+        <ep>111.76527163016613 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="24_196318383" type="text" x="-5877.178484520512" y="-7316.777986645316" r="0" s="4.552029644506503" class="strong">
+      <height>55.1953125</height>
+      <width>247.02355425312692</width>
+      <p align="center">
+        <text><![CDATA[ANALYSIS]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="25_196318383" type="button" x="4282.368757745917" y="-6893.586775568873" r="0" s="3.0003330699942197" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="26_196318383" type="button" x="-2334.1456396300127" y="-6903.03354838806" r="0" s="3.0753304122366094" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="27_196318383" type="image" x="-1381.4137115634037" y="-10445.823830545094" r="0" s="1.4442272760084776">
+      <source w="1790" h="1682">4438639877<url>4438639877.png</url></source>
+      <sourceUrl>NY%20Average%20Tip.png</sourceUrl>
+    <resource><id>4438639877</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/7/5/46326cadb0bebe5e69cde3ffa3b1744213f4a.png</url></resource></object>
+    <object id="28_196318383" type="button" x="4267.733349201344" y="-10548.450293772346" r="0" s="3.0003241036339316" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="29_196318383" type="button" x="-1474.3302257382295" y="-10445.97167030774" r="0" s="3.0003241036339316" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="30_196318383" type="image" x="4154.153928288076" y="-6961.18639703257" r="0" s="1.606317463738922">
+      <source w="1800" h="1434">4438640504<mask x="0" y="42" w="1654" h="1392"/>
+      <url>4438640504.png</url></source>
+      <sourceUrl>Sheet%201.png</sourceUrl>
+    <resource><id>4438640504</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/d/c/22baaad02cb188881c6c8e2b39e476c8b0ad3.png</url></resource></object>
+    <object id="32_196318383" type="text" x="4702.42064323993" y="-14810.606136648168" r="-3.425383335549437e-17" s="6.623944179141238" class="strong">
+      <height>27.59765625</height>
+      <width>247.02355425312692</width>
+      <p align="center">
+        <text color="11793407"><![CDATA[Scoring Parameters]]></text>
+      </p>
+    </object>
+    <object id="33_196318383" type="text" x="4787.121224192067" y="-14429.549005798342" r="-3.425383335549437e-17" s="5.4428205816065125" class="body">
+      <height>27.59765625</height>
+      <width>403.1701441172811</width>
+      <p>
+        <text color="16777215"><![CDATA[1. Density of the pickups]]></text>
+      </p>
+    </object>
+    <object id="34_196318383" type="image" x="4267.431283369464" y="-10548.247058975285" r="0" s="1.3848688320750182">
+      <source w="1790" h="1682">4438639871<url>4438639871.png</url></source>
+      <sourceUrl>NY%20Pickup%20Density.png</sourceUrl>
+    <resource><id>4438639871</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/7/4/aef7518771b79669fc613da5d451528fde84e.png</url></resource></object>
+    <object id="35_196318383" type="text" x="4002.9439501883817" y="-9884.445697828232" r="0" s="5.385147992300388" class="strong">
+      <height>55.1953125</height>
+      <width>247.02355425312692</width>
+      <p align="center">
+        <text><![CDATA[DENSITY ANALYSIS]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="36_196318383" type="image" x="-2334.075384588024" y="-7039.156502595348" r="0" s="1.746840935469852">
+      <source w="1790" h="1206">4438639874<mask x="0" y="0" w="1590" h="1206"/>
+      <url>4438639874.png</url></source>
+      <sourceUrl>NY%20pickup%20clusters.png</sourceUrl>
+    <resource><id>4438639874</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/2/6d3da434f7066021d6c0924a65ffdbb7272ff.png</url></resource></object>
+    <object id="37_196318383" type="textwithplaceholder" x="-2345.269423481707" y="-7064.039721947291" r="0" s="3.109097496418621" class="body">
+      <placeholder text="Click to add text" x="-201.55" y="-13.75" align="left" width="403.1701441172811"/>
+    </object>
+    <object id="38_196318383" type="button" x="-1564.8036603774012" y="-13967.33966557749" r="0" s="3.0753304122366094" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="39_196318383" type="shape" x="-6836.191286313719" y="-13837.878050390837" r="0" s="3.4989844666706684" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-68.85485268195376" y="-20"/>
+        <p x="68.85485268195376" y="-20"/>
+        <p x="68.85485268195376" y="20"/>
+        <p x="-68.85485268195376" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_196318383" type="text" x="-1620.3696025017684" y="-9809.17458264398" r="0" s="5.385147992300388" class="head">
+      <height>27.59765625</height>
+      <width>-161.82421875</width>
+      <p>
+        <text><![CDATA[TIP ANALYSIS]]></text>
+      </p>
+    </object>
+    <object id="41_196318383" type="text" x="3795.1049923612313" y="-6253.0967440803815" r="0" s="6.703214202278544" class="body">
+      <height>55.1953125</height>
+      <width>-272.15625</width>
+      <p>
+        <text><![CDATA[Better approach - Zoning ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="42_196318383" type="text" x="-2524.0733213883473" y="-6374.882639480797" r="0" s="6.703214202278544" class="body">
+      <height>27.59765625</height>
+      <width>-197.42578125</width>
+      <p>
+        <text><![CDATA[Some Data Mining]]></text>
+      </p>
+    </object>
+    <object id="43_196318383" type="textwithplaceholder" x="-1429.8858507271004" y="-10586.707264135312" r="0" s="3.109097496418621" class="body">
+      <placeholder text="Click to add text" x="-201.55" y="-13.75" align="left" width="403.1701441172811"/>
+    </object>
+    <object id="44_196318383" type="text" x="-1516.25" y="-14790.1" r="0" s="13.662424049592367" class="head">
+      <height>27.59765625</height>
+      <width>84.51606753860813</width>
+      <p>
+        <text color="15781660"><![CDATA[Demo!]]></text>
+      </p>
+    </object>
+    <object id="45_196318383" type="text" x="21189.026474297694" y="-6118.582179383145" r="0" s="42.72116577965483" class="body">
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <style font-family="AbrilFatface" fontFamily="custom-abrilfatface"/>
+      <height>32.376</height>
+      <width>124.6131914807595</width>
+      <p>
+        <text color="0"><![CDATA[Trip + Fare]]></text>
+      </p>
+    </object>
+    <object id="46_196318383" type="button" x="4702.585407600484" y="-14054.227378599024" r="-3.425383335549437e-17" s="3.783893862597039" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="47_196318383" type="shape" x="1413.1608204586105" y="-13974.094297618994" r="0" s="9.09297737381053" class="line3">
+      <geom type="line">
+        <sp>-198.85214225995017 0</sp>
+        <ep>198.85214225995017 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>roadmap2016</parentTemplate>
+      </meta>
+    </object>
+    <object id="48_196318383" type="text" x="4786.912451693674" y="-14142.58599452137" r="-3.425383335549437e-17" s="5.4428205816065125" class="body">
+      <height>27.59765625</height>
+      <width>403.1701441172811</width>
+      <p>
+        <text color="16777215"><![CDATA[2. Average Tip ]]></text>
+      </p>
+    </object>
+    <object id="49_196318383" type="text" x="4786.9124516936745" y="-13848.953179631138" r="-3.425383335549437e-17" s="5.4428205816065125" class="body">
+      <height>27.59765625</height>
+      <width>403.1701441172811</width>
+      <p>
+        <text color="16777215"><![CDATA[3. Mahout Recommendation]]></text>
+      </p>
+    </object>
+    <object id="50_196318383" type="text" x="4786.7444695341255" y="-13568.758937504765" r="-3.425383335549437e-17" s="5.4428205816065125" class="body">
+      <height>27.59765625</height>
+      <width>403.1701441172811</width>
+      <p>
+        <text color="16777215"><![CDATA[4. Distance of Pickup]]></text>
+      </p>
+    </object>
+    <object id="51_196318383" type="text" x="4786.744469534126" y="-13284.70110570878" r="-3.425383335549437e-17" s="5.4428205816065125" class="body">
+      <height>27.59765625</height>
+      <width>403.1701441172811</width>
+      <p>
+        <text color="16777215"><![CDATA[5. Drop off Zone]]></text>
+      </p>
+    </object>
+    <object id="52_196318383" type="button" x="-184.519560134906" y="-17893.627617232374" r="-3.425383335549437e-17" s="3.783708994674862" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1173.8189949393272</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="53_196318383" type="text" x="-321.08905584758173" y="-19093.5320570488" r="-3.425383335549437e-17" s="6.71928638192746" class="head">
+      <height>27.59765625</height>
+      <width>-218.26171875</width>
+      <p>
+        <text><![CDATA[Technologies Used]]></text>
+      </p>
+    </object>
+    <object id="59_196318383" type="text" x="-174.94457704065937" y="-17773.856337474514" r="-3.425383335549437e-17" s="7.31705764648563" class="head">
+      <height>303.57421875</height>
+      <width>501.2374999999999</width>
+      <p>
+        <text><![CDATA[MapReduce              : Data cleaning]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Hive                           : Aggregation ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[AWS/Hortonworks   : Platform ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Mahout                      : Recommedation ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[K-means/R                : Clustering]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Alteryx                       : Data joining]]></text>
+      </p>
+      <p>
+        <text><![CDATA[MongoDB                  : Database]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Morphia                     : ORM]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Tableau                      : Visualization]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Spring MVC               : Application]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="23_196318383" type="image" x="-1583.45" y="-13839.9" r="0" s="3.543419187002832">
+      <source w="600" h="315">4440576539<mask x="47" y="15" w="505" h="300"/>
+      <url>4440576539.png</url></source>
+      <sourceUrl>CV0PibhWoAAYatG.png</sourceUrl>
+    <resource><id>4440576539</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/a/2/05524f828866511f32515293b797ceab2eaeb.png</url></resource></object>
+    <object id="31_196318383" type="text" x="-1583.65" y="-14496.309375" r="0" s="8" class="body">
+      <height>27.59765625</height>
+      <width>-176.0625</width>
+      <p>
+        <text><![CDATA[IN A NUTSHELL]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="0" fadescale="0.1543328117682033">
+      <object id="background3474068207" type="image" x="685.2772223036192" y="0" r="0" s="44.1373716656775">
+        <source w="1568" h="885" bt="448.45" bl="715.45">3474068207<url>3474068207.swf</url></source>
+        <resource>
+          <id>3474068207</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/d/7/f0d7527f42ece4716fbf882e4cfa8d57b21d5.swf</url>
+        </resource>
+        <sourceUrl>Onboard%20template%20bckgrnd.swf</sourceUrl>
+        <extra>
+          <fixed_avm1_pos>1</fixed_avm1_pos>
+        </extra>
+      </object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="15_196318383"/>
+    </s>
+    <s>
+      <eagle o="first_frame"/>
+    </s>
+    <s>
+      <buildin o="4_196318383"/>
+    </s>
+    <s>
+      <buildin o="5_196318383"/>
+    </s>
+    <s>
+      <buildin o="6_196318383"/>
+    </s>
+    <s>
+      <buildin o="first_frame_title"/>
+    </s>
+    <s>
+      <eagle o="second_frame"/>
+    </s>
+    <s>
+      <buildin o="11_196318383"/>
+    </s>
+    <s>
+      <buildin o="12_196318383"/>
+    </s>
+    <s>
+      <eagle o="13_196318383"/>
+    </s>
+    <s>
+      <eagle o="19_196318383"/>
+    </s>
+    <s>
+      <eagle o="36_196318383"/>
+    </s>
+    <s>
+      <eagle o="30_196318383"/>
+    </s>
+    <s>
+      <eagle o="34_196318383"/>
+    </s>
+    <s>
+      <eagle o="27_196318383"/>
+    </s>
+    <s>
+      <eagle o="38_196318383"/>
+    </s>
+    <s>
+      <eagle o="46_196318383"/>
+    </s>
+    <s>
+      <eagle o="52_196318383"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('AbrilFatface-Regular.keg');
+	fontFamily: custom-abrilfatface;
+	font-class: custom-abrilfatface;
+	font-style: normal;
+	font-weight: normal;
+	font-family: AbrilFatface;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #000;
+	gradEndColor: #ccc;
+	gradStartColor: #ccc;
+}
+
+.line2
+{
+	color: #e6e6e6;
+	gradEndColor: #e6e6e6;
+	gradStartColor: #e6e6e6;
+}
+
+.line3
+{
+	color: #9bc4f7;
+	gradEndColor: #9bc4f7;
+	gradStartColor: #9bc4f7;
+}
+
+.line4
+{
+	color: #f2f2f2;
+	gradEndColor: #f2f2f2;
+	gradStartColor: #f2f2f2;
+}
+
+.line5
+{
+	color: #d9d9d9;
+	gradEndColor: #d9d9d9;
+	gradStartColor: #d9d9d9;
+}
+
+.poly1
+{
+	gradEndColor: #ccc;
+	gradStartColor: #ccc;
+}
+
+.poly2
+{
+	gradEndColor: #e6e6e6;
+	gradStartColor: #e6e6e6;
+}
+
+.poly3
+{
+	gradEndColor: #9bc4f7;
+	gradStartColor: #9bc4f7;
+}
+
+.poly4
+{
+	gradEndColor: #f2f2f2;
+	gradStartColor: #f2f2f2;
+}
+
+.poly5
+{
+	gradEndColor: #d9d9d9;
+	gradStartColor: #d9d9d9;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndColor: #333;
+	gradStartColor: #333;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderColor: #ccc;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #ccc;
+	gradStartAlpha: .8;
+	gradStartColor: #ccc;
+	padding: 1.03;
+	radius: 10;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderColor: #e6e6e6;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #e6e6e6;
+	gradStartAlpha: .8;
+	gradStartColor: #e6e6e6;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.8;
+	borderColor: #b0afaf;
+	borderThickness: 20;
+	gradEndAlpha: 0.8;
+	gradEndColor: #f6f6f6;
+	gradStartAlpha: 0.8;
+	gradStartColor: #f6f6f6;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #318bff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 30;
+}
+
+]]></style>
+  <hash>-66496cd2</hash>
+<sync><oid>0fxrczo4ixfc</oid><title>untitled-prezi</title><hash>-66496cd2</hash></sync><config>E6L/5qZ+puWmrHabHlrXt1AIxLSGef9nA1LVrHa019+lt2CI6bvkCIeqvbvMygHVcisLO0sbBoVIZDU0x5TVYdCUTkJvmDxEr239z5oapR1Ah+H0D/iB5f2qJVCej/P5XNR0uqr+EpAOWe4TUznsEq2KDNcSw7ysfK4tQS8nJSnrdFRfE5fgBugVjx4mBIpoP148rGvJHBadHlWfG9lyUiRgN3OZuZL0h58isDm801tCeqjzzMAfJQPqFUEd7ovGd3pmUOMtzypSnA1VDKvxxYgJ/axq9mNpQz3KFM7sOJ2zkSuoJ6WDhvmvwVjnY6IWt2FqJLcRIKqyqAI/RVi+6w==</config></zuiprezi>
